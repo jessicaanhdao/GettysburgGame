@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/GbgCommon.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/Cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/Cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/Cucumber/cucumber-java8-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/Cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/Cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/Cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/Cucumber/gherkin-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/study/WPI 2017-2018/A term/CS4233/gson-2.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
